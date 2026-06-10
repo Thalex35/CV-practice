@@ -32,3 +32,4 @@ Just open `index.html` in your browser — no installation needed.
 
 **Theodore Alex** · Junior Web Developer · Aquin, Haiti  
 GitHub: [Thalex35](https://github.com/Thalex35)
+Project URL : https://thalex35.github.io/CV-practice/
