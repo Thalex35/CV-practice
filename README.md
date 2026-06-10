@@ -4,7 +4,7 @@ A simple personal CV built with HTML, showcasing my skills, education, and exper
 
 ## Project URL
 
-https://thalex35.github.io/CV-practice/
+[https://thalex35.github.io/CV-practice/](https://roadmap.sh/projects/single-page-cv)
 
 ## Structure
 
